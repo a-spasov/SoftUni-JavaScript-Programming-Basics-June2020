@@ -20,3 +20,13 @@ spend on it.
 
 06. Operations Between Numbers 
 This function receives 2 numbers and operator (+, -, *, %, /). It calculates the result and determines if the number is even or odd.
+
+07. Hotel Room
+This function calculates total costs for renting a hotel room. It receives 2 parameters (month and number of days in hotel) as strings. 
+
+08. On Time for the Exam 
+This function receives time ot the exam and time of arriving of the student. It determines if the student is late, early or on time.
+
+09. Volleyball 
+This function calculates how many times Vladi has played volleyball during the year. It receives 3 parameters (first parameter is string - 
+"leap" or "normal", second parameter is number of holidays and third one - numbers of weekends when Vladi visits his hometown).
