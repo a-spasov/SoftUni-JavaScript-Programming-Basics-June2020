@@ -22,3 +22,16 @@ in the table.
 
 06. Number in Range 
 This function checks if given number is in interval [-100, 100] and it is not equal to 0.
+
+07.Working Hours 
+This function receives 2 parameters (hour and day of week) as strings and checks if the office of given company is open.
+Office is open from 10 to 18 every day except sunday.
+
+08.Cinema Ticket 
+This function prints the price of cinema ticket according entered day.
+
+09. Fruit or Vegetable
+This function checks if given product is a fruit or vegetable.
+	fruits: banana, apple, kiwi, cherry, lemon, grapes;
+	vegetables: tomato, cucumber, pepper, carrot;
+	unknown: any other product;
