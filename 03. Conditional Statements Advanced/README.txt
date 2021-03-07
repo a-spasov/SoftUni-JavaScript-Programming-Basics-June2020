@@ -35,3 +35,17 @@ This function checks if given product is a fruit or vegetable.
 	fruits: banana, apple, kiwi, cherry, lemon, grapes;
 	vegetables: tomato, cucumber, pepper, carrot;
 	unknown: any other product;
+
+
+10. Invalid Number 
+A given number is valid when it is in the interval [100, 200] or it is equal to 0. This function checks if the number is valid.
+
+11. Fruit Shop 
+This function receives 3 parameters (fruit, day of week, quantity) as strings and calculates the total costs according the prices of product.
+
+12. Trade Commissions
+This function receives 2 parameters (town and total amount of income from sales). It calculates trade commissions.
+There is a table with percents which differ according the name of town and amount of the income.
+
+13. Ski Trip
+This function receives 3 parameters (number of days, type of room and rating) as strings. It calculates total costs for the stay at the hotel.
