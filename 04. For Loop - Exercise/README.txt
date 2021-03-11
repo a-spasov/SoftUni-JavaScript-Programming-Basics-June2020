@@ -18,3 +18,8 @@ than 10 words) or not (it has more than 10 words).
 06. Histogram 
 This function receives several numbers and calculates the percentage of those which are less than 200, those between 200 and 399, those 
 between 400 and 599, those between 600 and 799 and those greater than 800.
+
+07. Divide Without Remainder
+This function receives several numbers and calculates the percentage of those which can be divided on 2, on 3 and on 4 without remainder.
+
+08. Salary
