@@ -23,3 +23,10 @@ between 400 and 599, those between 600 and 799 and those greater than 800.
 This function receives several numbers and calculates the percentage of those which can be divided on 2, on 3 and on 4 without remainder.
 
 08. Salary
+This function receives several parameters as strings. First one is number of opened websites in browser, second one is worker's salary and 
+after that there are several names of websites (their number corresponds to first parameter). If there is Facebook among websites, the 
+function subtracts 150leva from salary, if there is Instagram - 100 leva and for Reddit - 50 leva. For result function prints the rest of
+salary.
+
+09. Min Number
+This function receives several numbers and returns the smallest one of them.
