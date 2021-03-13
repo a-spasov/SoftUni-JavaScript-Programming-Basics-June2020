@@ -1,2 +1,14 @@
 01. Numbers from 1 to 100 
 This function prints numbers from 1 to 100.
+
+02. Numbers N...1 
+This function receives a number N as string and prints numbers from N to 1.
+
+03. Numbers 1...N with Step 3 
+This function receives a number N as string and prints numbers from 1 to N with step 3.
+
+04. Even Powers of 2 
+This function receives a number N as string and prints all even powers of 2 to N power of 2.
+
+05. Character Sequence 
+This function receives string as parameter and prints every character on new line.
