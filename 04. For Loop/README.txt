@@ -12,3 +12,9 @@ This function receives a number N as string and prints all even powers of 2 to N
 
 05. Character Sequence 
 This function receives string as parameter and prints every character on new line.
+
+06. Vowels Sum 
+This function receives a string and calculates the sum of vowels (a = 1, e = 2, i = 3, o = 4, u = 6).
+
+07. Sum of Numbers 
+This function receives a number as string and sums all of its digits.
