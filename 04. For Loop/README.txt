@@ -18,3 +18,8 @@ This function receives a string and calculates the sum of vowels (a = 1, e = 2, 
 
 07. Sum of Numbers 
 This function receives a number as string and sums all of its digits.
+
+08. Numbers Divisible by 9 
+This function receives 2 parameters (numbers as strings) and prints these which are divisible by 9 and calculates their sum.
+
+09. Clever Lily 
