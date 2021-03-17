@@ -23,3 +23,8 @@ This function receives a number as string and sums all of its digits.
 This function receives 2 parameters (numbers as strings) and prints these which are divisible by 9 and calculates their sum.
 
 09. Clever Lily 
+Lily is N years old. For every odd year she receives toys for her birthdays, and for even years - she receives money. For her second
+birthday she receives 10 leva and the sum increases with 10 leva for every next birthday she receives money. Every time she receives
+money, her brother takes 1 lev. Lily sold all the toys she has received, everyone for P leva and added the sum to other money saved from
+even birthdays. She want to buy a wash machine which costs X leva. The function receives 3 parameters (Lily's years, price of wash machine 
+and price per sold toy) as strings and calculates if Lily has enough money to buy the wash machine.
