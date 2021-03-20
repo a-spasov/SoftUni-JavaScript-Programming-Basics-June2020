@@ -9,3 +9,7 @@ odd position digits is equal to the sum of even position digits.
 This function receives an array with numbers. It calculates the sum of prime numbers and the sum of non prime numbers. If there is a
 negative number, a message "Number is negative." is shown and function skips the number.
 
+04. Train The Trainers
+This function receives number of presentations, name of every presentation and grades per presentation. It calculates average grade of 
+each presentation and then the total average grade of all presentations.
+
