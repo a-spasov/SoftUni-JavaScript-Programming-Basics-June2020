@@ -5,6 +5,8 @@ This function prints all the hours and minutes from 00:00 to 23:59.
 This function prints multiplication table for numbers from 1 to 10.
 
 03. Combinations 
+This function receives number (n) as string and calculates how many solutions in natural numbers (including zero) has the equation 
+x1 + x2 + x3 = n.
 
 04. Sum of Two Numbers 
 
