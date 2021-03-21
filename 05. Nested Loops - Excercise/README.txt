@@ -13,3 +13,7 @@ negative number, a message "Number is negative." is shown and function skips the
 This function receives number of presentations, name of every presentation and grades per presentation. It calculates average grade of 
 each presentation and then the total average grade of all presentations.
 
+05. Special Numbers
+This function receives a number (N) as string and generates all special numbers from 1111 to 9999. Special number is that number, which
+N is divisible by everyone of its digits without a remainder.
+
