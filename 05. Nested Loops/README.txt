@@ -9,6 +9,8 @@ This function receives number (n) as string and calculates how many solutions in
 x1 + x2 + x3 = n.
 
 04. Sum of Two Numbers 
+This function checks all possible combinations of a pair of numbers in the interval of two given numbers. It determines which is 
+the combination whose sum of numbers is equal to a given magic number. If there is no such a combination, function prints a message.
 
 05. Traveling 
 
