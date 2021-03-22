@@ -13,6 +13,8 @@ This function checks all possible combinations of a pair of numbers in the inter
 the combination whose sum of numbers is equal to a given magic number. If there is no such a combination, function prints a message.
 
 05. Traveling 
+This function receives array with name of destionation, minimum budget and several sums Annie has saved during her work. If money is 
+enough, function prints on screen a message. Actions repeat until there is "End" command in the array.
 
 06. Building 
 
