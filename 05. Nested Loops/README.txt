@@ -17,6 +17,10 @@ This function receives array with name of destionation, minimum budget and sever
 enough, function prints on screen a message. Actions repeat until there is "End" command in the array.
 
 06. Building 
+This function prints numbers of apartments and offices in a building. On every even floor there are only offices. On every odd floor there are
+only apartments. On last floor there are large apartmens. Every apartment is displayed as A{number of floor}{number of apartment}, every
+office is O{number of office}{number of office} and large apartments on last floor are L{number of floor}{number of apartment}. Function
+receives number of floors and number of apartments per floor. If there is one floor, only large apartments should be displayed.
 
 07. Cinema Tickets
 
