@@ -23,5 +23,11 @@ office is O{number of office}{number of office} and large apartments on last flo
 receives number of floors and number of apartments per floor. If there is one floor, only large apartments should be displayed.
 
 07. Cinema Tickets
+This function calculates the percentage of sold tickets for students, kids and adults per projection and calculates the occupancy of the 
+cinema hall.
 
 08. Tournament of Christmas 
+This function tracks the performance of your team at a charity Christmas tournament. It receives a number as string (number of days) and
+names of different games until receiving command "Finish". Each won game gives you 20 leva for charity. If your team is the winner of the 
+day (it has more wins than losses in that day), you increase your money with 10%. If you win the tournament, you increase your money with 
+20%.
