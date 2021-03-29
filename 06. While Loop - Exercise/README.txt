@@ -8,6 +8,9 @@ grades. Next elements are name of particular problem and grade. Function stops i
 command 'Enough'. As a result function prints the average grade and the number of solved problems.
 
 03. Vacation 
+This function determines if Jessy will save enough money for vavation.It receives an array with several elements. First element is needed
+money for the vacation, second element is the money Jessy already has and next elements are action ("save", "spend") and amount of money 
+she saved/spend. Function ends if Jessy has saved the money or she has been spending for 5 days.
 
 04. Walking
 
