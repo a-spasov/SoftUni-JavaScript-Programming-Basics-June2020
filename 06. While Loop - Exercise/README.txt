@@ -13,6 +13,8 @@ money for the vacation, second element is the money Jessy already has and next e
 she saved/spend. Function ends if Jessy has saved the money or she has been spending for 5 days.
 
 04. Walking
+This function receives an array as parameter. The array contains number of steps made by Gabby. The goal is 10000 steps per day. If she is
+tired, function receives command "Going home" and after that it receives number of final steps made. As result it prints on screen if Gabby reached her goal or not.
 
 05. Coins 
 
