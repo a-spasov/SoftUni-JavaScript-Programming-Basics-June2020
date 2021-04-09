@@ -1,4 +1,5 @@
 01. Read Text 
+This function prints every element of an array on new line until command 'Stop'.
 
 02. Password 
 
