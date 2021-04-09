@@ -2,6 +2,8 @@
 This function prints every element of an array on new line until command 'Stop'.
 
 02. Password 
+This function receives username and password. Then it starts reading a sequence of entered passwords. If there is a password match,
+function prints on screen: 'Welcome {username}!'.
 
 03. Sum Numbers
 
