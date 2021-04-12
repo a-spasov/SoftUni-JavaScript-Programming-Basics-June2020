@@ -6,6 +6,8 @@ This function receives username and password. Then it starts reading a sequence 
 function prints on screen: 'Welcome {username}!'.
 
 03. Sum Numbers
+This function receives array with numbers. It takes the first number and compares it with the sum of next ones in the array. The fuction 
+stops when the sum of numbers is greater than or equal to the first number.
 
 04. Sequence 2k+1 
 
