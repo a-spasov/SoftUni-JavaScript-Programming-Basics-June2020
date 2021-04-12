@@ -10,6 +10,7 @@ This function receives array with numbers. It takes the first number and compare
 stops when the sum of numbers is greater than or equal to the first number.
 
 04. Sequence 2k+1 
+This function receives a number and prints on screen all numbers from row 1, 3, 7,...,2k + 2 that are smaller than first number
 
 05. Account Balance
 
