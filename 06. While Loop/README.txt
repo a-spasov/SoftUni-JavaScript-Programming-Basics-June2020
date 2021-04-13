@@ -18,6 +18,7 @@ This function receives a number and prints on screen all numbers from row 1, 3, 
 This function receives different numbers until command 'Stop' and determines which one is the biggest.
 
 07. Min Number 
+This function receives different numbers until command 'Stop' and determines which one is the biggest.
 
 08. Graduation pt.2 
 
