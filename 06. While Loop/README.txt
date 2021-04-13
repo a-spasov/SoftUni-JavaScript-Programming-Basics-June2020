@@ -13,6 +13,8 @@ stops when the sum of numbers is greater than or equal to the first number.
 This function receives a number and prints on screen all numbers from row 1, 3, 7,...,2k + 2 that are smaller than first number
 
 05. Account Balance
+This function receives numbers as string until command 'NoMoreMoney'. For each number it adds corresponding sum to account balance. If the 
+number is negative, "Invalid operation!" shows up on screen and function stops. Then it display the total amount of the account balance.
 
 06. Max Number 
 This function receives different numbers until command 'Stop' and determines which one is the biggest.
