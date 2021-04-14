@@ -23,5 +23,7 @@ This function receives different numbers until command 'Stop' and determines whi
 This function receives different numbers until command 'Stop' and determines which one is the biggest.
 
 08. Graduation pt.2 
+This function calculates the average grade of a student. It receives the name of the student and his/her grades. The student graduates if 
+the average grade is greater than or equal to 4.00. If the student has poor grade more than once, the function stops.
 
 09. Moving
