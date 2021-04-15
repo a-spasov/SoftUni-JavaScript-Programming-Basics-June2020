@@ -27,3 +27,5 @@ This function calculates the average grade of a student. It receives the name of
 the average grade is greater than or equal to 4.00. If the student has poor grade more than once, the function stops.
 
 09. Moving
+This function calculates the free space of Jose's home after he moves in his luggage. Each box has dimensions 1m X 1m X 1m. Function
+receives dimensions of room and number of boxes until command 'Done'. Then it displays how much cubic meters are left.
